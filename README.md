@@ -21,6 +21,8 @@ We look at M/M/c with FIFO service discipline with:
 
 Time rate is important in QT. Time units could be : second, minute, hour, day, etc.
 
+<img src="queue fifo one line.gif"/>
+
 Parameters:
 
 * **m** – number of servers;  
